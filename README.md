@@ -31,30 +31,6 @@ Matplotlib
 Seaborn
 
 
-🚀 Como Executar
-
-Clone o repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/lucasm-paixao/1brc.git
-Navegue até o diretório do projeto:
-
-bash
-Copiar
-Editar
-cd 1brc
-
-Instale as dependências:
-
-bash
-Copiar
-Editar
-pip install -r requirements.txt
-
-Execute o notebook projeto_analise_descritiva.ipynb em um ambiente Jupyter Notebook.
-
 📈 Principais Análises Realizadas
 
 Distribuição das Avaliações: Análise da frequência das notas atribuídas pelos pacientes.
