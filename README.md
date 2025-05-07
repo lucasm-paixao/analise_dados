@@ -2,21 +2,6 @@
 📊 Projeto de Análise Descritiva
 Este projeto realiza uma análise descritiva de um dataset fictício de uma clínica médica, com o objetivo de explorar padrões de agendamento, comparecimento e avaliações de pacientes.
 
-🗂️ Índice
-Descrição do Projeto
-
-Objetivos
-
-Tecnologias Utilizadas
-
-Como Executar
-
-Principais Análises Realizadas
-
-Resultados Obtidos
-
-Autor
-
 📌 Descrição do Projeto
 O projeto utiliza um conjunto de dados fictício que simula registros de agendamentos e atendimentos em uma clínica médica. As informações incluem dados de pacientes, médicos, especialidades, datas de agendamento e consulta, comparecimento, avaliações e tempo de espera.
 
